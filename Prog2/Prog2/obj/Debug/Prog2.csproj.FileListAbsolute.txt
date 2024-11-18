@@ -1,0 +1,11 @@
+D:\Users\iamma\Documents\Visual Studio\Prog2\Prog2\bin\Debug\Prog2.exe.config
+D:\Users\iamma\Documents\Visual Studio\Prog2\Prog2\bin\Debug\Prog2.exe
+D:\Users\iamma\Documents\Visual Studio\Prog2\Prog2\bin\Debug\Prog2.pdb
+D:\Users\iamma\Documents\Visual Studio\Prog2\Prog2\obj\Debug\Prog2.csproj.AssemblyReference.cache
+D:\Users\iamma\Documents\Visual Studio\Prog2\Prog2\obj\Debug\Prog2.csproj.SuggestedBindingRedirects.cache
+D:\Users\iamma\Documents\Visual Studio\Prog2\Prog2\obj\Debug\Prog2.Form1.resources
+D:\Users\iamma\Documents\Visual Studio\Prog2\Prog2\obj\Debug\Prog2.Properties.Resources.resources
+D:\Users\iamma\Documents\Visual Studio\Prog2\Prog2\obj\Debug\Prog2.csproj.GenerateResource.cache
+D:\Users\iamma\Documents\Visual Studio\Prog2\Prog2\obj\Debug\Prog2.csproj.CoreCompileInputs.cache
+D:\Users\iamma\Documents\Visual Studio\Prog2\Prog2\obj\Debug\Prog2.exe
+D:\Users\iamma\Documents\Visual Studio\Prog2\Prog2\obj\Debug\Prog2.pdb
