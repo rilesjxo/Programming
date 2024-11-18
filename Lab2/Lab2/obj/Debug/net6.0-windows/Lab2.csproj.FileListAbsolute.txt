@@ -1,0 +1,34 @@
+D:\Users\iamma\Documents\Visual Studio\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.csproj.AssemblyReference.cache
+D:\Users\iamma\Documents\Visual Studio\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.Form1.resources
+D:\Users\iamma\Documents\Visual Studio\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.csproj.GenerateResource.cache
+D:\Users\iamma\Documents\Visual Studio\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\iamma\Documents\Visual Studio\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.AssemblyInfoInputs.cache
+D:\Users\iamma\Documents\Visual Studio\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.AssemblyInfo.cs
+D:\Users\iamma\Documents\Visual Studio\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.csproj.CoreCompileInputs.cache
+D:\Users\iamma\Documents\Visual Studio\Lab2\Lab2\bin\Debug\net6.0-windows\Lab2.exe
+D:\Users\iamma\Documents\Visual Studio\Lab2\Lab2\bin\Debug\net6.0-windows\Lab2.deps.json
+D:\Users\iamma\Documents\Visual Studio\Lab2\Lab2\bin\Debug\net6.0-windows\Lab2.runtimeconfig.json
+D:\Users\iamma\Documents\Visual Studio\Lab2\Lab2\bin\Debug\net6.0-windows\Lab2.dll
+D:\Users\iamma\Documents\Visual Studio\Lab2\Lab2\bin\Debug\net6.0-windows\ref\Lab2.dll
+D:\Users\iamma\Documents\Visual Studio\Lab2\Lab2\bin\Debug\net6.0-windows\Lab2.pdb
+D:\Users\iamma\Documents\Visual Studio\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.dll
+D:\Users\iamma\Documents\Visual Studio\Lab2\Lab2\obj\Debug\net6.0-windows\ref\Lab2.dll
+D:\Users\iamma\Documents\Visual Studio\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.pdb
+D:\Users\iamma\Documents\Visual Studio\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.genruntimeconfig.cache
+D:\Users\iamma\Documents\UofL\Spring 2022\CIS 199\Lab 2\Lab2\bin\Debug\net6.0-windows\Lab2.exe
+D:\Users\iamma\Documents\UofL\Spring 2022\CIS 199\Lab 2\Lab2\bin\Debug\net6.0-windows\Lab2.deps.json
+D:\Users\iamma\Documents\UofL\Spring 2022\CIS 199\Lab 2\Lab2\bin\Debug\net6.0-windows\Lab2.runtimeconfig.json
+D:\Users\iamma\Documents\UofL\Spring 2022\CIS 199\Lab 2\Lab2\bin\Debug\net6.0-windows\Lab2.dll
+D:\Users\iamma\Documents\UofL\Spring 2022\CIS 199\Lab 2\Lab2\bin\Debug\net6.0-windows\ref\Lab2.dll
+D:\Users\iamma\Documents\UofL\Spring 2022\CIS 199\Lab 2\Lab2\bin\Debug\net6.0-windows\Lab2.pdb
+D:\Users\iamma\Documents\UofL\Spring 2022\CIS 199\Lab 2\Lab2\obj\Debug\net6.0-windows\Lab2.csproj.AssemblyReference.cache
+D:\Users\iamma\Documents\UofL\Spring 2022\CIS 199\Lab 2\Lab2\obj\Debug\net6.0-windows\Lab2.Form1.resources
+D:\Users\iamma\Documents\UofL\Spring 2022\CIS 199\Lab 2\Lab2\obj\Debug\net6.0-windows\Lab2.csproj.GenerateResource.cache
+D:\Users\iamma\Documents\UofL\Spring 2022\CIS 199\Lab 2\Lab2\obj\Debug\net6.0-windows\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\iamma\Documents\UofL\Spring 2022\CIS 199\Lab 2\Lab2\obj\Debug\net6.0-windows\Lab2.AssemblyInfoInputs.cache
+D:\Users\iamma\Documents\UofL\Spring 2022\CIS 199\Lab 2\Lab2\obj\Debug\net6.0-windows\Lab2.AssemblyInfo.cs
+D:\Users\iamma\Documents\UofL\Spring 2022\CIS 199\Lab 2\Lab2\obj\Debug\net6.0-windows\Lab2.csproj.CoreCompileInputs.cache
+D:\Users\iamma\Documents\UofL\Spring 2022\CIS 199\Lab 2\Lab2\obj\Debug\net6.0-windows\Lab2.dll
+D:\Users\iamma\Documents\UofL\Spring 2022\CIS 199\Lab 2\Lab2\obj\Debug\net6.0-windows\ref\Lab2.dll
+D:\Users\iamma\Documents\UofL\Spring 2022\CIS 199\Lab 2\Lab2\obj\Debug\net6.0-windows\Lab2.pdb
+D:\Users\iamma\Documents\UofL\Spring 2022\CIS 199\Lab 2\Lab2\obj\Debug\net6.0-windows\Lab2.genruntimeconfig.cache
